@@ -8,16 +8,16 @@ Aim of this Platform is to target :
 There are 3 types of Users:
 1) Normal Users
 2) Organizations / Industries
-3) Regulatory Authority
+3) Regulatory Authority<br/>
 Normal Users – Can post social media information on social feed, add comment, add likes and engage in all the posts and also the user can raise a tickets against the industries to Regulatory authority.
 Organizations / Industries – Can Send response to the users. Check the tickets against them and maintain them. Also Can post social media information on social feed, add comment, add likes and engage in all the posts.
 Regulatory Authority – Can provide the Audit Reports for the organizations that it has received a request for. Can alod involve in Social media.
 All the users have the access to Eco dashboard where they can check all the tickets and Audit reports and also download them as PDF and also emails will be triggered directly by system
 <h1><b>Technologies used:</b></h1>
-<h5>Front end: </h5><br/>
+<h3>Front end: </h3><br/>
 <b>React Framework</b><br/>
 <b>Bootstrap</b>
-<h5>Back end: </h5><br/>
+<h3>Back end: </h3><br/>
 <b>Spring MVC</b><br/>
 <b>Hibernate</b><br/>
 Multipart File Uploader<br/>
