@@ -16,7 +16,10 @@ All the users have the access to Eco dashboard where they can check all the tick
 <h1><b>Technologies used:</b></h1>
 <h3>Front end: </h3><br/>
 <b>React Framework</b><br/>
+<b>HTML5</b><br/>
+<b>Javascript</b><br/>
 <b>Bootstrap</b>
+<b>CSS3</b><br/>
 <h3>Back end: </h3><br/>
 <b>Spring MVC</b><br/>
 <b>Hibernate</b><br/>
