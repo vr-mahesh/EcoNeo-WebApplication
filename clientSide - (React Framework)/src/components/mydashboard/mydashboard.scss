@@ -1,0 +1,64 @@
+#mydashboard{
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    top: 4vh;
+   
+}
+
+#OpenTickets{
+    height: 25vh;
+    width: 100%;
+    border: 1px solid black;
+    overflow-y: auto;
+}
+#TicketDetails{
+    height: 75vh;  overflow-y: auto;
+    width: 100%;
+    border: 1px solid black;
+}
+
+#ClosedTickets{
+    height: 25vh;
+    width: 100%;  overflow-y: auto;
+    border: 1px solid black;
+}
+
+#auditReport{
+    height: 25vh;  overflow-y: auto;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.ticket{
+    height: 7vh;
+    padding-top: 1vh;
+    box-shadow: 2px 2px 8px #888888;
+    border-radius: 2px;
+}
+
+.ticket_param{
+    display: inline-block;
+   
+}
+.ticket_open{
+    background-color: rgb(236, 128, 128);
+}
+.ticket_closed{
+    background-color: rgb(128, 236, 160);
+}
+.details_key{
+    font-weight: 600;
+}
+.ticket_yellow{
+background-color: rgb(238, 241, 46);
+}
+.ticket_blue{
+    background-color: rgb(82, 122, 231);
+
+}
+
+
+   .roww{
+    margin-top: 2vh;
+   }

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<!-- Root Context: defines shared resources visible to all other web components -->
+		
+<bean name="userdao" class="com.eco.neo.dao.UserDAO"></bean>
+<bean name="storydao" class="com.eco.neo.dao.StoryDAO"></bean>
+<bean name="commentdao" class="com.eco.neo.dao.CommentDAO"></bean>
+<bean name="enterprisedao" class="com.eco.neo.dao.EnterpriseDAO"></bean>
+<bean name="ticketdao" class="com.eco.neo.dao.TicketDAO"></bean>
+<bean name="auditdao" class="com.eco.neo.dao.AuditDAO"></bean>
+<bean name="validator" class="com.eco.neo.validator.UserValidator"></bean>
+
+
+</beans>
+

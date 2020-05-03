@@ -1,0 +1,57 @@
+.total_Section{
+    
+    height: 56vh;
+
+}
+.left_Section{
+    border: 1px solid gray;
+    height: 50vh;
+    overflow-y: auto;
+    border-radius: 4px;
+}
+.right_section{
+    border: 1px solid gray;
+    height: 50vh;
+    overflow-y: auto;
+    border-radius: 4px;
+}
+.red_e{
+background-color: red;
+}
+
+.green_e{
+    background-color: #0ace6b99;
+    }
+    
+.orange_e{
+    background-color: #fdb83b;
+    }
+.yellow_e{
+    background-color: #e8df68;
+    }
+   .info{
+    margin-bottom: 3vh;
+   }
+   .eco{
+    position: relative;
+    top: 5vh;
+   }
+   .title_sec{
+       font-size: large;
+       font-weight: bold;
+   }
+   .list_items{
+    height: 8vh;
+    padding-top: 2vh;
+    box-shadow: 2px 2px 8px #888888;
+   }
+   .roww{
+    margin-top: 2vh;
+   }
+   #Audit_section{
+    margin-top: 2vh;
+    box-shadow: 2px 2px 8px #888888;
+   }
+   .header{
+       background-color: #5bbaca;
+   }

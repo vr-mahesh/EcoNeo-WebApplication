@@ -1,0 +1,44 @@
+img 
+{
+ max-width: 40vw;
+ max-height: 40vh;
+}
+
+.each_story{
+    box-shadow: 5px -2px 18px #888888;
+    max-height: 85vh;
+    padding: 3vh 1vw 6vh 1vw;
+    height: 67vh;
+}
+.each_story_name{
+    font-size: large;
+    font-weight: 700;
+    color: #494949;
+}
+.each_story_text{
+    font-size: 13px;
+}
+.each_story_imageSection{
+
+}
+.each_story_buttons{
+    overflow-y: auto;
+    height: 55vh;
+}
+.like{
+    margin-right: 2vw;
+}
+.del_story{
+    margin-top: 1vh;
+    margin-left: 2vh;
+}
+.onecomment{
+  
+}
+.commenter{
+    font-weight: bold;
+    color: rgb(40, 131, 173);
+}
+.leftt{
+    border-right: 1px solid lightgray;
+}
