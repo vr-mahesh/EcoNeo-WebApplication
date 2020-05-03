@@ -13,22 +13,21 @@ Normal Users – Can post social media information on social feed, add comment, 
 Organizations / Industries – Can Send response to the users. Check the tickets against them and maintain them. Also Can post social media information on social feed, add comment, add likes and engage in all the posts.
 Regulatory Authority – Can provide the Audit Reports for the organizations that it has received a request for. Can alod involve in Social media.
 All the users have the access to Eco dashboard where they can check all the tickets and Audit reports and also download them as PDF and also emails will be triggered directly by system
-Technologies used:
-<h5>Front end</h5>
-<b>React JS</b>
+<h1><b>Technologies used:</b></h1>
+<h5>Front end: </h5><br/>
+<b>React Framework</b>
 <b>Bootstrap</b>
-Back-End :
-Spring MVC
-Hibernate
-Multipart File Uploader
-Mappings(Bidirectional One to Many and Unidirectional one to one )
-Sending Emails
-Annotations
-Criteria
-HQL
-Projections
-Filter
-Validator
-JSON web Token
+<h5>Back end: </h5><br/>
+<b>Spring MVC</b><br/>
+<b>Hibernate</b><br/>
+Multipart File Uploader<br/>
+Mappings(Bidirectional One to Many and Unidirectional one to one )<br/>
+Sending Emails<br/>
+Annotations<br/>
+Criteria<br/>
+HQL<br/>
+Projections<br/>
+Filter<br/>
+JSON web Token<br/>
 BCrypt
 
