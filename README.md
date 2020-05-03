@@ -15,7 +15,7 @@ Regulatory Authority – Can provide the Audit Reports for the organizations tha
 All the users have the access to Eco dashboard where they can check all the tickets and Audit reports and also download them as PDF and also emails will be triggered directly by system
 <h1><b>Technologies used:</b></h1>
 <h5>Front end: </h5><br/>
-<b>React Framework</b>
+<b>React Framework</b><br/>
 <b>Bootstrap</b>
 <h5>Back end: </h5><br/>
 <b>Spring MVC</b><br/>
