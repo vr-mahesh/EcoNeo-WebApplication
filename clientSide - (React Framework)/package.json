@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "html2canvas": "^1.0.0-rc.5",
     "jspdf": "^1.5.3",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1",
